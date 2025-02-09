@@ -1,4 +1,4 @@
-:# 👋 Hey there, I'm Abhinav!  
+👋 Hey there, I'm Abhinav!  
 
 ### 🚀 About Me  
 - Passionate about **Machine Learning and Web Development**  
