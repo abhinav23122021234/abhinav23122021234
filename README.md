@@ -26,6 +26,5 @@
 ### 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinav23122021234&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav23122021234&layout=compact&theme=dark)  
-
 ### 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([)](https://www.linkedin.com/in/abhinav-sharma-4876b1282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-sharma-4876b1282)  
