@@ -24,7 +24,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 
 ### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinav23122021234&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav23122021234&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinav23122021234&show_icons=true&theme=dark)    
 ### 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-sharma-4876b1282)  
