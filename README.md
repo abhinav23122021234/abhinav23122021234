@@ -3,7 +3,10 @@
 ### 🚀 About Me  
 - Passionate about **Machine Learning and Web Development**  
 - Strong foundation in **problem-solving**, with **100+ DSA questions** solved across different platforms  
-- Currently exploring **Full-Stack Development** alongside ML projects  
+- Currently exploring **Full-Stack Development** alongside ML projects
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
 
 ### 🛠 Tech Stack  
 **Programming Languages:**  
