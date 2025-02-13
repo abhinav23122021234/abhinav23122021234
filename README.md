@@ -5,7 +5,7 @@
 - Strong foundation in **problem-solving**, with **100+ DSA questions** solved across different platforms  
 - Currently exploring **Full-Stack Development** alongside ML projects
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=abhinav23122021234&color=blue)
 
 
 ### 🛠 Tech Stack  
