@@ -40,7 +40,7 @@ A passionate **Machine Learning & Web Development** enthusiast with a strong fou
 ## **📊 GitHub Stats**  
 | 💡 Stats | 🏆 Contributions |  
 |----------|----------------|  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinav23122021234&show_icons=true&theme=dark) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinav23122021234&show_icons=true&theme=dark) |![GitHub Streak](https://streak-stats.demolab.com?user=abhinav23122021234&theme=dark)
 
 
 ---
